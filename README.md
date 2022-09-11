@@ -2,7 +2,7 @@
 
 # My Tech Articles
 
-> A list of all the Tech articles I've written & published on Medium, HackerNoon & Indie Hackers.
+> A list of all the Tech articles I've written & published on Medium, Hacker Noon & Indie Hackers.
 
 ## List of all my Tech articles
 
