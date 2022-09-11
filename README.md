@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/LR-Losalini%20Rokocakau%20--%20Tech%20Writer-ff69b4)
+![](https://img.shields.io/badge/LR-Losalini%20Rokocakau%20|%20Remote%20Full%20Stack%20Developer%20&%20Tech%20Writer-ff69b4)
 
 # My Tech Articles
 
@@ -63,15 +63,12 @@ Give a ⭐️ if you like this project!
 - My God & family
 - Friends & colleagues
 - Microverse
-- Publications I have published my artciles to.
+- Publications I have published my articles to.
 
 ## Publications
 
 <div style="display: flex; justify-content: flex-start; column-gap: 10px;">
-
- ![](https://img.shields.io/badge/HN-Hacker%20Noon-brightgreen)
-
- ![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
-
- ![](https://img.shields.io/badge/IH-Indie%20Hackers%20-orange)
+  <img src="https://img.shields.io/badge/HN-Hacker%20Noon-brightgreen"/>
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IH-Indie%20Hackers%20-orange"/>
 </div>
