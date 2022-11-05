@@ -10,6 +10,7 @@
 - [CSS Animations: Creating Bouncing Ball Animation from Scratch](https://hackernoon.com/css-animations-creating-bouncing-ball-animation-from-scratch-qe103tpm) | HackerNoon | [Hosted in this repo](https://github.com/chelmerrox/Animations-Article-Tutorial)
 - [A Basic How-To on Temporarily Resolving CORS “Response to pre-flight request” error in the console for Windows OS & Chrome Browsers.](https://medium.com/@losalini.rokocakau/a-basic-how-to-on-temporarily-resolving-cors-response-to-pre-flight-request-error-in-the-console-3513d230b5b4) | Medium
 - [How to Temporarily Resolve CORS Error in the Console](https://hackernoon.com/how-to-temporarily-resolve-cors-error-in-the-console) | HackerNoon
+- [A Beginner’s Guide to Understanding & Recognizing Different Cyber Threats](https://medium.com/@losalini.rokocakau/a-beginners-guide-to-understanding-recognizing-different-cyber-threats-69572fe73ca1) | Medium
 
 ## Getting Started
 
