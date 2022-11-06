@@ -69,7 +69,8 @@ Give a ⭐️ if you like this project!
 ## Tech Publications
 
 <div style="display: flex; justify-content: flex-start; column-gap: 10px;">
-  <img src="https://img.shields.io/badge/HN-HackerNoon-brightgreen" width="100" height="27"/>
+<!--   <img src="https://img.shields.io/badge/HN-HackerNoon-brightgreen" width="100" height="27"/> -->
+  <img src="https://img.shields.io/badge/HackerNoon-00FE00?style=for-the-badge&logo=Hacker Noon&logoColor=black&textColor=black" width="100" height="27" />
   <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
   <!-- <img src="https://img.shields.io/badge/IH-Indie%20Hackers%20-orange"/> -->
 </div>
