@@ -8,7 +8,7 @@
 
 ### CSS Animations: Creating Bouncing Ball Animation from Scratch ([Hosted in this repo](https://github.com/chelmerrox/Animations-Article-Tutorial))
 
-<ul style="list-style: none; display: flex; flex-direction: row; justify-content: flex-start; column-gap: 10px;">
+<ul style="list-style-type: none; display: flex; flex-direction: row; justify-content: flex-start; column-gap: 10px;">
   <li>
     <a href="https://medium.com/@l.rokocakau/css-animations-a-step-by-step-tutorial-guide-to-create-a-simple-bouncing-ball-animation-9c5deb1ea28d?sk=d4f4e74af7732f4cbca077134324474f">Medium</a>
   </li>
@@ -28,7 +28,7 @@
 
 ### How to Temporarily Resolve CORS Error in the Console
 
-<ul style="list-style: none; display: flex; flex-direction: row; justify-content: flex-start; column-gap: 10px;">
+<ul style="list-style-type: none; display: flex; flex-direction: row; justify-content: flex-start; column-gap: 10px;">
   <li>
     <a href="https://medium.com/@losalini.rokocakau/a-basic-how-to-on-temporarily-resolving-cors-response-to-pre-flight-request-error-in-the-console-3513d230b5b4">
       Medium
@@ -56,7 +56,7 @@
 
 ### A Beginner’s Guide to Understanding & Recognizing Different Cyber Threats
 
-<ul style="list-style: none; display: flex; flex-direction: row; justify-content: flex-start; column-gap: 10px;">
+<ul style="list-style-type: none; display: flex; flex-direction: row; justify-content: flex-start; column-gap: 10px;">
   <li>
     <a href="https://medium.com/@losalini.rokocakau/a-beginners-guide-to-understanding-recognizing-different-cyber-threats-69572fe73ca1">
       Medium
