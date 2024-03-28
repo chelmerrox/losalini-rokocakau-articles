@@ -1,78 +1,18 @@
-![](https://img.shields.io/badge/LR-Losalini%20Rokocakau%20|%20Remote%20Front%20End%20Developer%20&%20Technical%20Writer-ff69b4)
+![](https://img.shields.io/badge/LR-Losalini%20Rokocakau%20•%20Remote%20Front%20End%20Developer%20&%20Technical%20Content%20Writer-ff69b4)
 
 # My Tech Articles
 
-> A list of all the Tech articles I've written under my real name (& not the pen name). Published on Medium, HackerNoon & Hashnode.
+> A list of all the Tech articles I've written under my real name (& not the pen name). Published on freeCodeCamp, Medium, HackerNoon & Hashnode.
 
 ## List of all my Tech articles
 
-### CSS Animations: Creating Bouncing Ball Animation from Scratch ([Hosted in this repo](https://github.com/chelmerrox/Animations-Article-Tutorial))
+Find my articles on these platforms.
 
-<div style="display: flex; flex-direction: row; justify-content: flex-start; column-gap: 10px;">
-  <a href="https://medium.com/@l.rokocakau/css-animations-a-step-by-step-tutorial-guide-to-create-a-simple-bouncing-ball-animation-9c5deb1ea28d?sk=d4f4e74af7732f4cbca077134324474f">Medium</a>
-  <p>|</p>
-  <a href="https://hackernoon.com/css-animations-creating-bouncing-ball-animation-from-scratch-qe103tpm">
-    HackerNoon
-  </a>
-  <p>|</p>
-  <a href="https://losalini-rokocakau.hashnode.dev/css-animations-create-bouncing-ball-animation-from-scratch">
-    Hashnode
-  </a>
-</div>
-
-### How to Temporarily Resolve CORS Error in the Console
-
-<div style="display: flex; flex-direction: row; justify-content: flex-start; column-gap: 10px;">
-  <a href="https://medium.com/@losalini.rokocakau/a-basic-how-to-on-temporarily-resolving-cors-response-to-pre-flight-request-error-in-the-console-3513d230b5b4">
-    Medium
-  </a>
-  <p>|</p>
-  <a href="https://hackernoon.com/how-to-temporarily-resolve-cors-error-in-the-console">
-    HackerNoon
-  </a>
-  <p>|</p>
-  <a href="https://losalini-rokocakau.hashnode.dev/how-to-temporarily-resolve-cors-error-in-the-console">
-    Hashnode
-  </a>
-  <p>|</p>
-  <a href="https://dev.to/chelmerrox/how-to-temporarily-resolve-cors-error-in-the-console-5dfe">
-    DEV.to
-  </a>
-</div>
-
-### Understanding & Recognizing Different Cyber Threats: What to Look Out For
-
-<div style="display: flex; flex-direction: row; justify-content: flex-start; column-gap: 10px;">
-  <a href="https://medium.com/@losalini.rokocakau/a-beginners-guide-to-understanding-recognizing-different-cyber-threats-69572fe73ca1">
-    Medium
-  </a>
-  <p>|</p>
-  <a href="https://hackernoon.com/understanding-and-recognizing-different-cyber-threats-what-to-look-out-for">
-    HackerNoon
-  </a>
-  <p>|</p>
-  <a href="https://losalini-rokocakau.hashnode.dev/a-beginners-guide-to-understanding-recognizing-different-cyber-threats">
-    Hashnode
-  </a>
-  <p>|</p>
-  <a href="https://dev.to/chelmerrox/a-beginners-guide-to-understanding-recognizing-different-cyber-threats-3pmn">
-    DEV.to
-  </a>
-</div>
+[freeCodeCamp](https://www.freecodecamp.org/news/author/losalini-rokocakau/) • [HackerNoon](https://hackernoon.com/u/chelmerrox) • [Medium](https://medium.com/@losalini.rokocakau) • [DEV Community](https://dev.to/chelmerrox) • [Hashnode](https://losalini-rokocakau.hashnode.dev/)
 
 ## Author
 
-👤 **Losalini Rokocakau**
-
-- GitHub: [@chelmerrox](https://github.com/chelmerrox)
-- Twitter: [@chelmerrox](https://twitter.com/chelmerrox)
-- LinkedIn: [Losalini Rokocakau](https://linkedin.com/in/losalini-rokocakau)
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](https://github.com/chelmerrox/losalini-rokocakau-articles/issues).
+👤 **Losalini Rokocakau** • [GitHub](https://github.com/chelmerrox) • [X](https://twitter.com/chelmerrox) • [LinkedIn](https://linkedin.com/in/losalini-rokocakau)
 
 ## Show your support
 
@@ -88,6 +28,9 @@ Give a ⭐️ if you like this project!
 ## Tech Publications & Blogs
 
 <div style="display: flex; justify-content: flex-start; column-gap: 10px;">
+  <a href="https://www.freecodecamp.org/news/author/losalini-rokocakau">
+    <img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=white" height="31"  />
+  </a>
   <a href="https://hackernoon.com/u/chelmerrox">
     <img src="https://img.shields.io/badge/HackerNoon-00FE00?style=for-the-badge&logo=Hacker Noon&logoColor=black&textColor=black" width="100" height="27" />
   </a>
