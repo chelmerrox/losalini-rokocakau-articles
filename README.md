@@ -4,17 +4,17 @@
 
 > A list of all the Tech articles I've written under my real name (& not the pen name). Published on freeCodeCamp, Medium, HackerNoon & Hashnode.
 
-## List of all my Tech articles
+## 📃 List of all my Tech articles
 
 Find my articles on these platforms.
 
 [freeCodeCamp](https://www.freecodecamp.org/news/author/losalini-rokocakau/) • [HackerNoon](https://hackernoon.com/u/chelmerrox) • [Medium](https://medium.com/@losalini.rokocakau) • [DEV Community](https://dev.to/chelmerrox) • [Hashnode](https://losalini-rokocakau.hashnode.dev/) • [Coder Legion](https://coderlegion.com/user/Losalini%20Rokocakau?tab=profile)
 
-## Author
+## ✍🏽 Author
 
 👤 **Losalini Rokocakau** • [GitHub](https://github.com/chelmerrox) • [X](https://twitter.com/chelmerrox) • [LinkedIn](https://linkedin.com/in/losalini-rokocakau)
 
-## Show your support
+## 🫴🏽 Show your support
 
 Give a ⭐️ if you like this project!
 
