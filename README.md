@@ -8,7 +8,7 @@
 
 Find my articles on these platforms.
 
-[freeCodeCamp](https://www.freecodecamp.org/news/author/losalini-rokocakau/) • [HackerNoon](https://hackernoon.com/u/chelmerrox) • [Medium](https://medium.com/@losalini.rokocakau) • [DEV Community](https://dev.to/chelmerrox) • [Hashnode](https://losalini-rokocakau.hashnode.dev/)
+[freeCodeCamp](https://www.freecodecamp.org/news/author/losalini-rokocakau/) • [HackerNoon](https://hackernoon.com/u/chelmerrox) • [Medium](https://medium.com/@losalini.rokocakau) • [DEV Community](https://dev.to/chelmerrox) • [Hashnode](https://losalini-rokocakau.hashnode.dev/) • [Coder Legion](https://coderlegion.com/user/Losalini%20Rokocakau?tab=profile)
 
 ## Author
 
@@ -42,6 +42,9 @@ Give a ⭐️ if you like this project!
   </a>
   <a href="https://dev.to/chelmerrox">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" height="30.5" />
+  </a>
+  <a href="https://coderlegion.com/user/Losalini+Rokocakau">
+    <img src="https://img.shields.io/badge/Coder%20Legion-orange" height="30.5" />
   </a>
     <!-- <img src="https://img.shields.io/badge/IH-Indie%20Hackers%20-orange"/> -->
 </div>
